@@ -7,4 +7,11 @@
   "service_version": "v1",
   "title": "Portrait of NGC 1055",
   "url": "https://apod.nasa.gov/apod/image/2403/Image133k_n1055_1024.jpg"
+},
+
+{
+  "photo": {
+    "copyright": "Dave Doctor",
+    "date": "2024-03-15",
+  }
 }
